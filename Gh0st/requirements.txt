@@ -1,0 +1,5 @@
+# GH05T Shopify Agent — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+playwright>=1.44.0      # browser automation
+requests>=2.31.0        # Google Drive downloads
